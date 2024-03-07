@@ -1,0 +1,38 @@
+#head{
+    text-align: center;
+    background-color: aquamarine;
+}
+#heading{
+    display: inline;
+    color: rgb(18, 18, 18);
+    margin-right: 10px;
+    font-family: sans-serif;
+}
+#heading-logo{
+    font-size: 2em;
+    color: rgb(0, 0, 0);
+}
+.blog{
+    margin: 5% 0% 5% 0%;
+    padding: 1%;
+    background-color: rgba(127, 255, 212, 0.262);
+}
+h3{
+    text-align: center;
+    font-family: sans-serif;
+}
+.Author{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 70%;
+}
+p{
+    text-align: justify;
+    margin: 0px 30px 0px 30px;
+}
